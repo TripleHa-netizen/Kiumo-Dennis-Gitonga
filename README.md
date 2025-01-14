@@ -11,7 +11,8 @@ Hi, I'm Kiumo Dennis Gitonga. I'm a ICT Consultant, Audio Producer, and a great 
 
 ## Projects
 
-### Project 0: [(https://amzn.eu/d/bTdLkgo)
+### Project 1: The Memoirs Of An Akademik Dwarf
+                [(https://amzn.eu/d/bTdLkgo)
 - A personal portfolio built with HTML, CSS, and JavaScript to showcase my work.
 - **Tech Stack**: HTML, CSS, JavaScript
 
