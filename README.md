@@ -11,6 +11,11 @@ Hi, I'm Kiumo Dennis Gitonga. I'm a ICT Consultant, Audio Producer, and a great 
 
 ## Projects
 
+### Project 0: [(https://amzn.eu/d/bTdLkgo)
+- A personal portfolio built with HTML, CSS, and JavaScript to showcase my work.
+- **Tech Stack**: HTML, CSS, JavaScript
+
+
 ### Project 1: Soundcloud(https://soundcloud.com/tripple-hustle))
 - A personal portfolio built with HTML, CSS, and JavaScript to showcase my work.
 - **Tech Stack**: HTML, CSS, JavaScript
@@ -21,4 +26,5 @@ Hi, I'm Kiumo Dennis Gitonga. I'm a ICT Consultant, Audio Producer, and a great 
 
 ## Contact Me
 - Email: [proxydennis86@gmail.com](mailto:proxydennis86@gmail.com)
-- LinkedIn: [www.linkedin.com/in/dennis-gitonga-8143686a]
+- LinkedIn: www.linkedin.com/in/dennis-gitonga-8143686a
+- 
