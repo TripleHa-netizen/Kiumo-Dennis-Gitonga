@@ -15,7 +15,7 @@ Hi, I'm Kiumo Dennis Gitonga. I'm a ICT Consultant, Sound Engineer, and a great 
                 (https://amzn.eu/d/bTdLkgo)_
 
 
-### Book 2: The Devil's Last Born
+### Book 2: The Devil's Last Born: From Hustlers To Publishers 
                [ (https://amzn.eu/d/bTdLkgo)](https://amzn.eu/d/8mKHZSH)
 
 
