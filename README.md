@@ -1,4 +1,4 @@
-# Kiumo-Dennis-Gitonga
+# Kiumo Dennis Gitonga
 # Welcome to My Portfolio
 
 Hi, I'm [Kiumo Dennis Gitonga]. I'm a ICT Consultant, Audio Producer, and a great Author skilled in:
