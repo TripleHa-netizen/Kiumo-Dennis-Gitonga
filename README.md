@@ -23,7 +23,8 @@ Hi, I'm Kiumo Dennis Gitonga. I'm a ICT Consultant, Sound Engineer, and a great 
              (https://amzn.eu/d/4P18Wxq)
 
                
-### Audio : Soundcloud(https://soundcloud.com/tripple-hustle))
+### Audio : Soundcloud
+             https://soundcloud.com/tripple-hustle
 - A personal portfolio built with HTML, CSS, and JavaScript to showcase my work.
 - **Tech Stack**: HTML, CSS, JavaScript
 
