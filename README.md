@@ -1,7 +1,7 @@
 # Kiumo Dennis Gitonga
 # Welcome to My Portfolio
 
-Hi, I'm [Kiumo Dennis Gitonga]. I'm a ICT Consultant, Audio Producer, and a great Author skilled in:
+Hi, I'm Kiumo Dennis Gitonga. I'm a ICT Consultant, Audio Producer, and a great Author skilled in:
 
 - **Networking**: HTML, CSS, JavaScript, React
 - **Backend Development**: Node.js, Python, Django
