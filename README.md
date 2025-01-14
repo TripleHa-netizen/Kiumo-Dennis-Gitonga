@@ -7,7 +7,7 @@ Hi, I'm [Kiumo Dennis Gitonga]. I'm a ICT Consultant, Audio Producer, and a grea
 - **Backend Development**: Node.js, Python, Django
 - **Database**: , MySQL,
 - **Audio Production**: , Logic Pro,
--  **Digital Marketing**: , Adobe Premiere
+-  **Digital Marketing**: , Adobe Premiere, Canvas
 
 ## Projects
 
