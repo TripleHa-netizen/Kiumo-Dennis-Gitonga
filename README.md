@@ -15,8 +15,14 @@ Hi, I'm Kiumo Dennis Gitonga. I'm a ICT Consultant, Audio Producer, and a great 
                 (https://amzn.eu/d/bTdLkgo)_
 
 
-### Book 2: The Devil's Last Born: 
-                (https://amzn.eu/d/bTdLkgo)
+### Book 2: The Devil's Last Born
+               [ (https://amzn.eu/d/bTdLkgo)](https://amzn.eu/d/8mKHZSH)
+
+
+### Book 2: The Sting of Unrealized Potential
+             (https://amzn.eu/d/4P18Wxq)
+
+               
 
 
 ### Project 1: Soundcloud(https://soundcloud.com/tripple-hustle))
