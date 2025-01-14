@@ -11,8 +11,7 @@ Hi, I'm Kiumo Dennis Gitonga. I'm a ICT Consultant, Audio Producer, and a great 
 
 ## Projects
 
-### Book 1: Memoirs of an akademik Dwarf:
-            _Talk about stories of a global trotting hustler hell-bent on grinding till his toes bleed_
+### Book 1: Memoirs of an akademik Dwarf: _Talk about stories of a global trotting hustler hell-bent on grinding till his toes bleed_
                 (https://amzn.eu/d/bTdLkgo)_
 
 
