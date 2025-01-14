@@ -3,18 +3,20 @@
 
 Hi, I'm Kiumo Dennis Gitonga. I'm a ICT Consultant, Audio Producer, and a great Author skilled in:
 
-- **Networking**: HTML, CSS, JavaScript, React
-- **Backend Development**: Node.js, Python, Django
+- **Networking**: CCNA
+- **Backend Development**: Node.js, Python, 
 - **Database**: , MySQL,
 - **Audio Production**: , Logic Pro,
 -  **Digital Marketing**: , Adobe Premiere, Canvas
 
 ## Projects
 
-### Project 1: The Memoirs Of An Akademik Dwarf
+### Book 1: Memoirs of an akademik Dwarf: Talk about stories of a global trotting hustler hell-bent on grinding till his toes bleed
                 (https://amzn.eu/d/bTdLkgo)
-- A personal portfolio built with HTML, CSS, and JavaScript to showcase my work.
-- **Tech Stack**: HTML, CSS, JavaScript
+
+
+### Book 2: The Devil's Last Born: 
+                (https://amzn.eu/d/bTdLkgo)
 
 
 ### Project 1: Soundcloud(https://soundcloud.com/tripple-hustle))
